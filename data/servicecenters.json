@@ -1,0 +1,38 @@
+[
+	{
+	    "id": 1,
+	    "title": "Go Green Motors",
+	    "description": "Hello World",
+	    "imageUrl": "user_uploaded_images/1.jpg",
+	    "rating": 2,
+	    "offers": [{ "description": "Washing 200 rupees" }, { "description": "Washing 200 rupees" }, { "description": "Washing 200 rupees" }],
+	    "placeids": [  ]
+	},
+	{
+	    "id": 2,
+	    "title": "Maruti Suzuki",
+	    "description": "Hello World",
+	    "imageUrl": "user_uploaded_images/1.jpg",
+	    "rating": 4,
+	    "offers": [],
+	    "placeids": [  ]
+	},
+	{
+	    "id": 3,
+	    "title": "Tata Motos",
+	    "description": "Hello World",
+	    "imageUrl": "user_uploaded_images/1.jpg",
+	    "rating": 4,
+	    "offers": [],
+	    "placeids": [  ]
+	},
+	{
+	    "id": 4,
+	    "title": "Mercedes",
+	    "description": "Hello World",
+	    "imageUrl": "user_uploaded_images/1.jpg",
+	    "rating": 4,
+	    "offers": [ { "description": "free ride" } ],
+	    "placeids": [  ]
+	}
+]
