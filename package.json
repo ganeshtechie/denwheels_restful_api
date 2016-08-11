@@ -15,5 +15,10 @@
     "cors": "^2.7.1",
     "express": "^4.14.0",
     "multer": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3"
   }
 }

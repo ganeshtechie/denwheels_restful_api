@@ -1,0 +1,22 @@
+{
+    "title": "Green House",
+    "address1": "Kondapur Road, Gachibowli",
+    "address2": "Hyderabad",
+    "address3" : "500046",
+    "contactNo": 9988552244,
+    "website": "https://gogreenmotors.com",
+    "description": "A sample description",
+    "reviews": [{
+        "title": "not bad",
+        "description": "Donec sit amet ligula enim. Duis vel condimentum massa. Maecenas eget congue dui. Vestibulum et eros consectetur, interdum nibh et, volutpat dolor.",
+        "rating": 4.5,
+        "username": "Rajan",
+        "date": "10/23/2016"
+    }, {
+        "title": "very good services",
+        "description": "Donec sit amet ligula enim. Duis vel condimentum massa. Maecenas eget congue dui. Vestibulum et eros consectetur, interdum nibh et, volutpat dolor.",
+        "rating": 4.5,
+        "username": "Ganesh",
+        "date": "10/23/2016"
+    }]
+}

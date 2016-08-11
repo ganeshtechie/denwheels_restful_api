@@ -33,9 +33,21 @@ app.get("/getServiceCenters", function(req, res){
 });
 
 
+app.get("/getServiceCenterDetail", function(req, res){
+
+	fs.readFile( __dirname + "/data/" + "servicecenterdetail.json", 'utf8', function (err, data) {
+		console.log( data );
+		res.end( data );
+	});
+
+});
+
+
+
+
 
 app.get('/', function (req, res) {
-   res.send('Hello World');
+   res.send('Hello World.js');
 })
 
 var server = app.listen(8081, function () {
